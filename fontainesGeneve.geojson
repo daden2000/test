@@ -1,0 +1,4373 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo (CH)",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "68912",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413515779",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1583876,
+          46.2060695
+        ]
+      },
+      "id": "node/413515779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616215728",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0873651,
+          46.2000343
+        ]
+      },
+      "id": "node/616215728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616342728",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1241239,
+          46.1980923
+        ]
+      },
+      "id": "node/616342728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622057035",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.124266,
+          46.1976895
+        ]
+      },
+      "id": "node/622057035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/624612821",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1416121,
+          46.1954998
+        ]
+      },
+      "id": "node/624612821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/624614764",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1416112,
+          46.1990429
+        ]
+      },
+      "id": "node/624614764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/624629144",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1682202,
+          46.1851322
+        ]
+      },
+      "id": "node/624629144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/624634604",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1680244,
+          46.184407
+        ]
+      },
+      "id": "node/624634604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639109335",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1512582,
+          46.1808346
+        ]
+      },
+      "id": "node/639109335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705891853",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98553903",
+        "wikimedia_commons": "Fontaine de la place Jargonnant.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1603591,
+          46.201482
+        ]
+      },
+      "id": "node/705891853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705891855",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98554694",
+        "wikimedia_commons": "Fontaine de la rue de la Fontaine.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149546,
+          46.2013493
+        ]
+      },
+      "id": "node/705891855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/705891856",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98554954",
+        "wikimedia_commons": "Fontaine de la rue du Perron.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1475758,
+          46.2016978
+        ]
+      },
+      "id": "node/705891856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/746510764",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1529571,
+          46.2003322
+        ]
+      },
+      "id": "node/746510764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865123193",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1209196,
+          46.2023641
+        ]
+      },
+      "id": "node/865123193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867374474",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1271318,
+          46.20574
+        ]
+      },
+      "id": "node/867374474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867374481",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1282297,
+          46.2057599
+        ]
+      },
+      "id": "node/867374481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/894564594",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520377",
+        "wikimedia_commons": "Fontaine du parc de Baulieu (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1371926,
+          46.2146858
+        ]
+      },
+      "id": "node/894564594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895640982",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.140911,
+          46.2373623
+        ]
+      },
+      "id": "node/895640982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/896856599",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98521072",
+        "wikimedia_commons": "Fontaine du par Moillebeau.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1273117,
+          46.2183723
+        ]
+      },
+      "id": "node/896856599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897590805",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1451591,
+          46.205514
+        ]
+      },
+      "id": "node/897590805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897590811",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1630194,
+          46.2085146
+        ]
+      },
+      "id": "node/897590811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897590841",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1299047,
+          46.2054186
+        ]
+      },
+      "id": "node/897590841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/903572129",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1227089,
+          46.2232803
+        ]
+      },
+      "id": "node/903572129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919092771",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1541194,
+          46.2004929
+        ]
+      },
+      "id": "node/919092771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/929427173",
+        "amenity": "drinking_water",
+        "source": "Orthophotos 2011 du SITG (Système d'Information du Territoire Genevois)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1521313,
+          46.2551857
+        ]
+      },
+      "id": "node/929427173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945083849",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98554599",
+        "wikimedia_commons": "Fontaine du boulevard Jaques-Dalcroze.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1530567,
+          46.2010677
+        ]
+      },
+      "id": "node/945083849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/947228627",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0823762,
+          46.2136306
+        ]
+      },
+      "id": "node/947228627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/968576523",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1518946,
+          46.2029361
+        ]
+      },
+      "id": "node/968576523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/973010082",
+        "amenity": "drinking_water",
+        "image": "https://europeanwaterproject.org/photos/2020/EWP973010082.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1453348,
+          46.204649
+        ]
+      },
+      "id": "node/973010082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/981690565",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1384487,
+          46.1819457
+        ]
+      },
+      "id": "node/981690565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/981691169",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1383449,
+          46.1823609
+        ]
+      },
+      "id": "node/981691169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/995175163",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1579633,
+          46.2018749
+        ]
+      },
+      "id": "node/995175163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1026999818",
+        "amenity": "drinking_water",
+        "name": "Fontaine",
+        "wikidata": "Q67651278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1137969,
+          46.2787647
+        ]
+      },
+      "id": "node/1026999818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1034457163",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1620518,
+          46.1994318
+        ]
+      },
+      "id": "node/1034457163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1313916149",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.117494,
+          46.1681479
+        ]
+      },
+      "id": "node/1313916149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1313916203",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1221816,
+          46.1699211
+        ]
+      },
+      "id": "node/1313916203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1314324306",
+        "amenity": "drinking_water",
+        "designation": "fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1150352,
+          46.1913221
+        ]
+      },
+      "id": "node/1314324306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1379357090",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1590053,
+          46.1999937
+        ]
+      },
+      "id": "node/1379357090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459014296",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1366581,
+          46.1863588
+        ]
+      },
+      "id": "node/1459014296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459014788",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1341392,
+          46.188835
+        ]
+      },
+      "id": "node/1459014788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1460526518",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1216501,
+          46.1834563
+        ]
+      },
+      "id": "node/1460526518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1461102369",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1531992,
+          46.1969873
+        ]
+      },
+      "id": "node/1461102369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464401972",
+        "addr:city": "Genève",
+        "addr:street": "Rue de la Madeleine",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1489673,
+          46.2022058
+        ]
+      },
+      "id": "node/1464401972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1464820961",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98520322",
+        "wikimedia_commons": "Fontaine de la Place Isaac-Mercier.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1397971,
+          46.2066612
+        ]
+      },
+      "id": "node/1464820961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1466989859",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1486837,
+          46.1847883
+        ]
+      },
+      "id": "node/1466989859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1470039601",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520368",
+        "wikimedia_commons": "Fontaine de l'avenue Wendt (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1288113,
+          46.212916
+        ]
+      },
+      "id": "node/1470039601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485121637",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1505338,
+          46.1903548
+        ]
+      },
+      "id": "node/1485121637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1486033818",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1601139,
+          46.1984233
+        ]
+      },
+      "id": "node/1486033818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1486034063",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1589652,
+          46.1988134
+        ]
+      },
+      "id": "node/1486034063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497896185",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1982517,
+          46.239958
+        ]
+      },
+      "id": "node/1497896185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729205010",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1427926,
+          46.2907187
+        ]
+      },
+      "id": "node/1729205010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1732107512",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1449169,
+          46.1805812
+        ]
+      },
+      "id": "node/1732107512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769544502",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1465644,
+          46.1919462
+        ]
+      },
+      "id": "node/1769544502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793775803",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0008017,
+          46.1777636
+        ]
+      },
+      "id": "node/1793775803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802182330",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1407936,
+          46.2120141
+        ]
+      },
+      "id": "node/1802182330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1807262066",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0444304,
+          46.2006314
+        ]
+      },
+      "id": "node/1807262066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1807712409",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1550285,
+          46.1986505
+        ]
+      },
+      "id": "node/1807712409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826961160",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1433855,
+          46.230996
+        ]
+      },
+      "id": "node/1826961160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826961395",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1394257,
+          46.2344072
+        ]
+      },
+      "id": "node/1826961395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826961418",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1391947,
+          46.2353645
+        ]
+      },
+      "id": "node/1826961418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1835215985",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1882492,
+          46.1971548
+        ]
+      },
+      "id": "node/1835215985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842041288",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1658369,
+          46.2889518
+        ]
+      },
+      "id": "node/1842041288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842979165",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1688878,
+          46.2771835
+        ]
+      },
+      "id": "node/1842979165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1842979183",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1659586,
+          46.2856415
+        ]
+      },
+      "id": "node/1842979183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867137587",
+        "amenity": "drinking_water",
+        "designation": "Fontaine de Choully"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0275389,
+          46.2226134
+        ]
+      },
+      "id": "node/1867137587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867156863",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03155,
+          46.2165098
+        ]
+      },
+      "id": "node/1867156863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867160059",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0387919,
+          46.2235655
+        ]
+      },
+      "id": "node/1867160059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1884069033",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.224858,
+          46.2618809
+        ]
+      },
+      "id": "node/1884069033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1886349778",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1393469,
+          46.2226835
+        ]
+      },
+      "id": "node/1886349778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889844867",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1385586,
+          46.1888106
+        ]
+      },
+      "id": "node/1889844867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1902642780",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1530868,
+          46.1983804
+        ]
+      },
+      "id": "node/1902642780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906145552",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98520362",
+        "wikimedia_commons": "Fontaine de l'avenue d'Aïre 95 (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1136673,
+          46.2050633
+        ]
+      },
+      "id": "node/1906145552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1906525422",
+        "amenity": "drinking_water",
+        "designation": "potable water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1448299,
+          46.2028922
+        ]
+      },
+      "id": "node/1906525422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1907183992",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2171383,
+          46.2361154
+        ]
+      },
+      "id": "node/1907183992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917475642",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1454222,
+          46.1945441
+        ]
+      },
+      "id": "node/1917475642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1943488810",
+        "amenity": "drinking_water",
+        "dog": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1350207,
+          46.2093371
+        ]
+      },
+      "id": "node/1943488810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1943488862",
+        "amenity": "drinking_water",
+        "dog": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1328268,
+          46.2098452
+        ]
+      },
+      "id": "node/1943488862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945035111",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1393351,
+          46.1799184
+        ]
+      },
+      "id": "node/1945035111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945035462",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1398762,
+          46.1802984
+        ]
+      },
+      "id": "node/1945035462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000016424",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1210295,
+          46.190126
+        ]
+      },
+      "id": "node/2000016424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021508408",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1328744,
+          46.1994618
+        ]
+      },
+      "id": "node/2021508408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030270161",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1479214,
+          46.1938735
+        ]
+      },
+      "id": "node/2030270161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030270173",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.148568,
+          46.194362
+        ]
+      },
+      "id": "node/2030270173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069991407",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "no",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98553912",
+        "wikimedia_commons": "Fontaine du parc de Contamines.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160267,
+          46.1957493
+        ]
+      },
+      "id": "node/2069991407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109891095",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1411345,
+          46.2129784
+        ]
+      },
+      "id": "node/2109891095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2169446073",
+        "amenity": "drinking_water",
+        "note": "surveyed by Alex-7",
+        "source": "survey",
+        "survey:date": "2013-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1582643,
+          46.1939463
+        ]
+      },
+      "id": "node/2169446073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2242837792",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1490661,
+          46.2014247
+        ]
+      },
+      "id": "node/2242837792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2254302666",
+        "amenity": "drinking_water",
+        "note": "surveyed by Alex-7 with OSMpad",
+        "source": "survey",
+        "survey:date": "2013-04-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1387342,
+          46.1969507
+        ]
+      },
+      "id": "node/2254302666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2254302705",
+        "amenity": "drinking_water",
+        "note": "surveyed by Alex-7 with OSMpad",
+        "source": "survey",
+        "survey:date": "2013-04-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1369197,
+          46.2025554
+        ]
+      },
+      "id": "node/2254302705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266023825",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1235449,
+          46.2030696
+        ]
+      },
+      "id": "node/2266023825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282802023",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.154849,
+          46.1820363
+        ]
+      },
+      "id": "node/2282802023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2283383169",
+        "addr:city": "Genève",
+        "addr:country": "CH",
+        "amenity": "drinking_water",
+        "note": "surveyed by Alex-7 with OSMpad",
+        "source": "survey",
+        "survey:date": "2013-04-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.138885,
+          46.1769551
+        ]
+      },
+      "id": "node/2283383169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2291962266",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98554247",
+        "wikimedia_commons": "Fontaine de la place René-Payot.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.142843,
+          46.2000569
+        ]
+      },
+      "id": "node/2291962266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292525097",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1540168,
+          46.2036387
+        ]
+      },
+      "id": "node/2292525097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2292525106",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1531117,
+          46.2037251
+        ]
+      },
+      "id": "node/2292525106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2311312308",
+        "amenity": "drinking_water",
+        "source": "survey",
+        "survey:date": "2016-07-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1496042,
+          46.2189084
+        ]
+      },
+      "id": "node/2311312308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2320885524",
+        "amenity": "drinking_water",
+        "note": "surveyed by Alex-7 with OSMpad on bicycle",
+        "source": "survey",
+        "survey:date": "2013-05-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1474129,
+          46.2161834
+        ]
+      },
+      "id": "node/2320885524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426934329",
+        "amenity": "drinking_water",
+        "note": "Eau potable",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1427623,
+          46.1979639
+        ]
+      },
+      "id": "node/2426934329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2427928684",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1501748,
+          46.1962651
+        ]
+      },
+      "id": "node/2427928684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2440334211",
+        "amenity": "drinking_water",
+        "description": "drinking water",
+        "indoor": "no",
+        "note": "surveyed by Alex-7 with OsmPad and bicycle",
+        "source": "survey",
+        "survey:date": "2013-08-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1396667,
+          46.2117392
+        ]
+      },
+      "id": "node/2440334211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441757640",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1698366,
+          46.1790501
+        ]
+      },
+      "id": "node/2441757640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441760838",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1692499,
+          46.1836646
+        ]
+      },
+      "id": "node/2441760838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2451555547",
+        "amenity": "drinking_water",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1858424,
+          46.1667839
+        ]
+      },
+      "id": "node/2451555547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2481123835",
+        "amenity": "drinking_water",
+        "name": "Fontaine de meyrin XIX siècle",
+        "name:fr": "Fontaine de meyrin XIX siècle",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0690798,
+          46.2295696
+        ]
+      },
+      "id": "node/2481123835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486265662",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.184362,
+          46.1651485
+        ]
+      },
+      "id": "node/2486265662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2486265681",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1846644,
+          46.1667325
+        ]
+      },
+      "id": "node/2486265681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2494832752",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.106281,
+          46.187202
+        ]
+      },
+      "id": "node/2494832752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2587743656",
+        "amenity": "drinking_water",
+        "name": "Fontaine des Filles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0197955,
+          46.1741899
+        ]
+      },
+      "id": "node/2587743656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2587744944",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0189211,
+          46.1747323
+        ]
+      },
+      "id": "node/2587744944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2587750830",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0021446,
+          46.1701839
+        ]
+      },
+      "id": "node/2587750830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2587775657",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149689,
+          46.2117184
+        ]
+      },
+      "id": "node/2587775657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986300589",
+        "amenity": "drinking_water",
+        "name": "Don de Charles Borel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1221275,
+          46.2699279
+        ]
+      },
+      "id": "node/2986300589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2986300590",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1404672,
+          46.2097318
+        ]
+      },
+      "id": "node/2986300590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3220808614",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1421533,
+          46.1755253
+        ]
+      },
+      "id": "node/3220808614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3312955538",
+        "amenity": "drinking_water",
+        "name": "Fontaine de la Poste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02037,
+          46.1738174
+        ]
+      },
+      "id": "node/3312955538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325835412",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0222664,
+          46.1736211
+        ]
+      },
+      "id": "node/3325835412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3654055598",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1306055,
+          46.2091884
+        ]
+      },
+      "id": "node/3654055598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3654055730",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98520347",
+        "wikimedia_commons": "Fontaine Rue des Délices 9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1328568,
+          46.2064415
+        ]
+      },
+      "id": "node/3654055730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3657487541",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1443909,
+          46.2000812
+        ]
+      },
+      "id": "node/3657487541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3663827020",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1779625,
+          46.2116183
+        ]
+      },
+      "id": "node/3663827020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664584963",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1495285,
+          46.1980446
+        ]
+      },
+      "id": "node/3664584963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664584965",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1372599,
+          46.208619
+        ]
+      },
+      "id": "node/3664584965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3670494725",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9892679,
+          46.211015
+        ]
+      },
+      "id": "node/3670494725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3776620432",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1659566,
+          46.2836308
+        ]
+      },
+      "id": "node/3776620432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783290171",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1386846,
+          46.2105562
+        ]
+      },
+      "id": "node/3783290171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3783290172",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520330",
+        "wikimedia_commons": "Fontaine de la Place des Grottes (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1396035,
+          46.2101497
+        ]
+      },
+      "id": "node/3783290172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4026658694",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0848675,
+          46.2163773
+        ]
+      },
+      "id": "node/4026658694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4026666949",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0836548,
+          46.2159793
+        ]
+      },
+      "id": "node/4026666949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4051483528",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520789",
+        "wikimedia_commons": "Fontaine de la Place du Petit-Saconnex.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1272888,
+          46.2226851
+        ]
+      },
+      "id": "node/4051483528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4051483556",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1276507,
+          46.2235024
+        ]
+      },
+      "id": "node/4051483556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4055307598",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1300363,
+          46.2155719
+        ]
+      },
+      "id": "node/4055307598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4055886407",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.075893,
+          46.1639568
+        ]
+      },
+      "id": "node/4055886407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060023038",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1239039,
+          46.2149902
+        ]
+      },
+      "id": "node/4060023038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4060122035",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1351355,
+          46.2105756
+        ]
+      },
+      "id": "node/4060122035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069952969",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98520325",
+        "wikimedia_commons": "Fontaine du Parc des Cropettes (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.141267,
+          46.2118187
+        ]
+      },
+      "id": "node/4069952969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069952985",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.138671,
+          46.2139861
+        ]
+      },
+      "id": "node/4069952985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079521602",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0846898,
+          46.168229
+        ]
+      },
+      "id": "node/4079521602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079521622",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0875026,
+          46.1689498
+        ]
+      },
+      "id": "node/4079521622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079521643",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0896099,
+          46.1702002
+        ]
+      },
+      "id": "node/4079521643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4224205307",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1249577,
+          46.2206477
+        ]
+      },
+      "id": "node/4224205307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4224270308",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98520702",
+        "wikimedia_commons": "Fontaine rue Moillebeau 47.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1298966,
+          46.2213859
+        ]
+      },
+      "id": "node/4224270308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230162613",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.127503,
+          46.2236706
+        ]
+      },
+      "id": "node/4230162613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4249974790",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1686236,
+          46.2040155
+        ]
+      },
+      "id": "node/4249974790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255972790",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1669965,
+          46.2050774
+        ]
+      },
+      "id": "node/4255972790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255975990",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1661846,
+          46.2058049
+        ]
+      },
+      "id": "node/4255975990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4255992689",
+        "amenity": "drinking_water",
+        "name": "Fontaine du Port Noir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1707582,
+          46.2112476
+        ]
+      },
+      "id": "node/4255992689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4256223589",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1561762,
+          46.2049428
+        ]
+      },
+      "id": "node/4256223589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4264168991",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1638153,
+          46.208162
+        ]
+      },
+      "id": "node/4264168991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4264191613",
+        "amenity": "drinking_water",
+        "name": "Fontaine XXI Décembre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1587623,
+          46.2044231
+        ]
+      },
+      "id": "node/4264191613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4266264139",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98554986",
+        "wikimedia_commons": "Fontaine de la Grande-Rue N°21.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1457606,
+          46.20192
+        ]
+      },
+      "id": "node/4266264139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4273042789",
+        "amenity": "drinking_water",
+        "name": "Fontaine des Falquets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.192537,
+          46.2087553
+        ]
+      },
+      "id": "node/4273042789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290379951",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1387791,
+          46.1957564
+        ]
+      },
+      "id": "node/4290379951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301788792",
+        "amenity": "drinking_water",
+        "name": "Fontaine des Volontaires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1365808,
+          46.2041018
+        ]
+      },
+      "id": "node/4301788792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4301820989",
+        "amenity": "drinking_water",
+        "image": "https://europeanwaterproject.org/photos/2020/EWP4301820989.jpg",
+        "name": "Fontaine place du Rhône"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1464665,
+          46.2046601
+        ]
+      },
+      "id": "node/4301820989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4313748864",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1372062,
+          46.1977216
+        ]
+      },
+      "id": "node/4313748864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348387692",
+        "amenity": "drinking_water",
+        "name": "eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1476426,
+          46.2059374
+        ]
+      },
+      "id": "node/4348387692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4354657289",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1002048,
+          46.1838006
+        ]
+      },
+      "id": "node/4354657289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368950389",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.988854,
+          46.151191
+        ]
+      },
+      "id": "node/4368950389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4381131097",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1540903,
+          46.2040516
+        ]
+      },
+      "id": "node/4381131097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384738611",
+        "amenity": "drinking_water",
+        "name": "Fontaine du Clos",
+        "name:fr": "Fontaine du Clos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1625531,
+          46.2055138
+        ]
+      },
+      "id": "node/4384738611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394209817",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1440882,
+          46.2092887
+        ]
+      },
+      "id": "node/4394209817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407930190",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1197055,
+          46.2064886
+        ]
+      },
+      "id": "node/4407930190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418871290",
+        "amenity": "drinking_water",
+        "name": "Fontaine Charles Martin",
+        "name:fr": "Fontaine Charles Martin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1686893,
+          46.198105
+        ]
+      },
+      "id": "node/4418871290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426603391",
+        "amenity": "drinking_water",
+        "name": "rue des Allobroges",
+        "name:fr": "rue des Allobroges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1398184,
+          46.1904673
+        ]
+      },
+      "id": "node/4426603391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531655222",
+        "amenity": "drinking_water",
+        "source": "Observation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0428022,
+          46.1904421
+        ]
+      },
+      "id": "node/4531655222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723658194",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1507318,
+          46.1998177
+        ]
+      },
+      "id": "node/4723658194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4723658195",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1504825,
+          46.1995443
+        ]
+      },
+      "id": "node/4723658195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4726828190",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0773897,
+          46.2034002
+        ]
+      },
+      "id": "node/4726828190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4727380989",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0935402,
+          46.210911
+        ]
+      },
+      "id": "node/4727380989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897695820",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1454936,
+          46.1898582
+        ]
+      },
+      "id": "node/4897695820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897706024",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1448784,
+          46.1891563
+        ]
+      },
+      "id": "node/4897706024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4969854114",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1518564,
+          46.2155438
+        ]
+      },
+      "id": "node/4969854114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024197026",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.044217,
+          46.1896012
+        ]
+      },
+      "id": "node/5024197026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024197027",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0836209,
+          46.2329087
+        ]
+      },
+      "id": "node/5024197027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5031498922",
+        "amenity": "drinking_water",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1509676,
+          46.2116707
+        ]
+      },
+      "id": "node/5031498922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5041139291",
+        "amenity": "drinking_water",
+        "image": "https://europeanwaterproject.org/photos/2020/EWP5041139291.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1457028,
+          46.2036602
+        ]
+      },
+      "id": "node/5041139291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053379918",
+        "amenity": "drinking_water",
+        "image": "https://commons.wikimedia.org/wiki/File:Water_fountain_in_Place_de_la_Fusterie.jpg",
+        "wheelchair": "yes",
+        "wikidata": "Q73619582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1460248,
+          46.204092
+        ]
+      },
+      "id": "node/5053379918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5066938808",
+        "amenity": "drinking_water",
+        "name": "Fontaine ecopotable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0768846,
+          46.2379749
+        ]
+      },
+      "id": "node/5066938808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181770721",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0741869,
+          46.230982
+        ]
+      },
+      "id": "node/5181770721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5208454121",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0846847,
+          46.2286853
+        ]
+      },
+      "id": "node/5208454121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299542521",
+        "amenity": "drinking_water",
+        "name": "Eau potable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1308087,
+          46.2098751
+        ]
+      },
+      "id": "node/5299542521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5421675222",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q98520345",
+        "wikimedia_commons": "Fontaine du Chemin Galiffe.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1363852,
+          46.206468
+        ]
+      },
+      "id": "node/5421675222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452149803",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1686293,
+          46.2048094
+        ]
+      },
+      "id": "node/5452149803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5609885224",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1360395,
+          46.1904465
+        ]
+      },
+      "id": "node/5609885224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634806724",
+        "amenity": "drinking_water",
+        "name": "Acqua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9966103,
+          46.1685336
+        ]
+      },
+      "id": "node/5634806724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656532558",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9961035,
+          46.2165539
+        ]
+      },
+      "id": "node/5656532558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795857357",
+        "amenity": "drinking_water",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0549447,
+          46.2311391
+        ]
+      },
+      "id": "node/5795857357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795857358",
+        "amenity": "drinking_water",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0546134,
+          46.230877
+        ]
+      },
+      "id": "node/5795857358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795857359",
+        "amenity": "drinking_water",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0546014,
+          46.2311085
+        ]
+      },
+      "id": "node/5795857359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795857360",
+        "amenity": "drinking_water",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.054942,
+          46.2310899
+        ]
+      },
+      "id": "node/5795857360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5820675151",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1650891,
+          46.276253
+        ]
+      },
+      "id": "node/5820675151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5851385720",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1960753,
+          46.2592042
+        ]
+      },
+      "id": "node/5851385720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882992885",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1509332,
+          46.2048002
+        ]
+      },
+      "id": "node/5882992885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5911710485",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98538812",
+        "wikimedia_commons": "Fontaine-vasque ovale (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1466497,
+          46.227663
+        ]
+      },
+      "id": "node/5911710485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928238605",
+        "addr:street": "Port de Bellerive",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1935293,
+          46.2528561
+        ]
+      },
+      "id": "node/5928238605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928239146",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1340274,
+          46.2032928
+        ]
+      },
+      "id": "node/5928239146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928239157",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1345975,
+          46.2160037
+        ]
+      },
+      "id": "node/5928239157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928239437",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1335098,
+          46.2166009
+        ]
+      },
+      "id": "node/5928239437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928239442",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1324456,
+          46.2172718
+        ]
+      },
+      "id": "node/5928239442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928307847",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1320998,
+          46.2160859
+        ]
+      },
+      "id": "node/5928307847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6220443388",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1059276,
+          46.2301595
+        ]
+      },
+      "id": "node/6220443388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6223670470",
+        "amenity": "drinking_water",
+        "name": "Eau potable",
+        "name:de": "Trinkwasser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1491646,
+          46.2261092
+        ]
+      },
+      "id": "node/6223670470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6354938124",
+        "access": "yes",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1340251,
+          46.3088841
+        ]
+      },
+      "id": "node/6354938124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6504129398",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0685086,
+          46.2017349
+        ]
+      },
+      "id": "node/6504129398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542856303",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98520351",
+        "wikimedia_commons": "Fontaine du parc Prieuré de Saint-Jean (2).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1312168,
+          46.2038778
+        ]
+      },
+      "id": "node/6542856303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597415646",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1456906,
+          46.2019635
+        ]
+      },
+      "id": "node/6597415646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597428921",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1490739,
+          46.2013814
+        ]
+      },
+      "id": "node/6597428921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597439248",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1489145,
+          46.2022342
+        ]
+      },
+      "id": "node/6597439248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597445539",
+        "addr:street": "Rue de la Cité",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1436688,
+          46.2035952
+        ]
+      },
+      "id": "node/6597445539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597445540",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1500676,
+          46.2031115
+        ]
+      },
+      "id": "node/6597445540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649441758",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1526341,
+          46.2110287
+        ]
+      },
+      "id": "node/6649441758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649441759",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1510026,
+          46.2094644
+        ]
+      },
+      "id": "node/6649441759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6665527885",
+        "amenity": "drinking_water",
+        "description": "Eau potable fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1665912,
+          46.2079207
+        ]
+      },
+      "id": "node/6665527885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6670981470",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0993854,
+          46.1827214
+        ]
+      },
+      "id": "node/6670981470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6670981473",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1006007,
+          46.1819775
+        ]
+      },
+      "id": "node/6670981473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680132977",
+        "amenity": "drinking_water",
+        "name": "Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.084236,
+          46.240929
+        ]
+      },
+      "id": "node/6680132977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680187589",
+        "amenity": "drinking_water",
+        "name": "Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0692999,
+          46.2317402
+        ]
+      },
+      "id": "node/6680187589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6686001610",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9959891,
+          46.1923462
+        ]
+      },
+      "id": "node/6686001610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6695675217",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fee": "no",
+        "name": "Fontaine",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0625573,
+          46.237953
+        ]
+      },
+      "id": "node/6695675217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697944173",
+        "amenity": "drinking_water",
+        "name": "Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0715759,
+          46.2313018
+        ]
+      },
+      "id": "node/6697944173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6708296939",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0647803,
+          46.2353695
+        ]
+      },
+      "id": "node/6708296939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6720941645",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.128625,
+          46.1736197
+        ]
+      },
+      "id": "node/6720941645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6771521485",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1696876,
+          46.2029849
+        ]
+      },
+      "id": "node/6771521485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6799821851",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98494680",
+        "wikimedia_commons": "File:Fontaine de la rue du Mont-Blanc (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1448658,
+          46.2082547
+        ]
+      },
+      "id": "node/6799821851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6813946785",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1511492,
+          46.217587
+        ]
+      },
+      "id": "node/6813946785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6827191390",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1511192,
+          46.2176368
+        ]
+      },
+      "id": "node/6827191390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854248401",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "material": "stone",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98539288",
+        "wikimedia_commons": "Fontaine Jardin Botanique.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1465945,
+          46.2267334
+        ]
+      },
+      "id": "node/6854248401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854258206",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "material": "limestone",
+        "name": "Extension du Jardin Botanique",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q69997592",
+        "wikimedia_commons": "Fontaine de l'extension du Jardin Botanique.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1470344,
+          46.2285214
+        ]
+      },
+      "id": "node/6854258206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7426748551",
+        "amenity": "drinking_water",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.244326,
+          46.3023098
+        ]
+      },
+      "id": "node/7426748551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7555866772",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1566383,
+          46.1924498
+        ]
+      },
+      "id": "node/7555866772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7603356286",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1680416,
+          46.2064442
+        ]
+      },
+      "id": "node/7603356286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7640626305",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1533989,
+          46.1931767
+        ]
+      },
+      "id": "node/7640626305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7658745529",
+        "amenity": "drinking_water",
+        "name": "drinking water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1160576,
+          46.191387
+        ]
+      },
+      "id": "node/7658745529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778290963",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0766303,
+          46.1691442
+        ]
+      },
+      "id": "node/7778290963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778310586",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.070048,
+          46.1664477
+        ]
+      },
+      "id": "node/7778310586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7805847258",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "fee": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.024147,
+          46.2199405
+        ]
+      },
+      "id": "node/7805847258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7825769343",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1375471,
+          46.2144776
+        ]
+      },
+      "id": "node/7825769343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7838167699",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1426508,
+          46.2059167
+        ]
+      },
+      "id": "node/7838167699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7839925336",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98496139",
+        "wikimedia_commons": "Fontaine de la Place Kléberg (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.145297,
+          46.2071087
+        ]
+      },
+      "id": "node/7839925336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841065698",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98520358",
+        "wikimedia_commons": "Fontaine Rue Saint-Jean (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1278927,
+          46.2047621
+        ]
+      },
+      "id": "node/7841065698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841080535",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "yes",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520361",
+        "wikimedia_commons": "Fontaine du Bois de la Bâtie.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1221536,
+          46.1962583
+        ]
+      },
+      "id": "node/7841080535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841138373",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98520374",
+        "wikimedia_commons": "Fontaine de la rue du Grand-Pré (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1336219,
+          46.2148602
+        ]
+      },
+      "id": "node/7841138373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843498686",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1620748,
+          46.1993544
+        ]
+      },
+      "id": "node/7843498686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843498687",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1628553,
+          46.1992494
+        ]
+      },
+      "id": "node/7843498687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843498885",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.153328,
+          46.1919776
+        ]
+      },
+      "id": "node/7843498885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843498985",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "no",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98553933",
+        "wikimedia_commons": "Fontaine-vasquede l'avenue Champel.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1531608,
+          46.1915892
+        ]
+      },
+      "id": "node/7843498985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7846319379",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1348863,
+          46.2021789
+        ]
+      },
+      "id": "node/7846319379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7864406938",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98538797",
+        "wikimedia_commons": "Petite fontaine du parc de l'Ariana.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1380977,
+          46.2249906
+        ]
+      },
+      "id": "node/7864406938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7864474996",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98538803",
+        "wikimedia_commons": "Petite fontaine du jardin botanique (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1458825,
+          46.2257091
+        ]
+      },
+      "id": "node/7864474996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7864501880",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98538842",
+        "wikimedia_commons": "Fontaine du sud du jardin botanique (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1477041,
+          46.2254072
+        ]
+      },
+      "id": "node/7864501880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7864573861",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98538849",
+        "wikimedia_commons": "Fontaine à double faces (1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1519307,
+          46.2214953
+        ]
+      },
+      "id": "node/7864573861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7864672617",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98538864",
+        "wikimedia_commons": "Fontaine du parc Moynier.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1498531,
+          46.2197712
+        ]
+      },
+      "id": "node/7864672617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7868714076",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98539571",
+        "wikimedia_commons": "Fontaine de la place des Eaux-Vives.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.156283,
+          46.2025543
+        ]
+      },
+      "id": "node/7868714076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7868764842",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98539616",
+        "wikimedia_commons": "Fontaine de la rue Théodore Flournoy.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1645104,
+          46.2042372
+        ]
+      },
+      "id": "node/7868764842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7868785309",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "no",
+        "wikidata": "Q98553916",
+        "wikimedia_commons": "Fontaine du parc Bertrand.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1598043,
+          46.1941894
+        ]
+      },
+      "id": "node/7868785309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7872452669",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "no",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "limited",
+        "wikidata": "Q98554976",
+        "wikimedia_commons": "Fontaine de la promenade de la Treille.jpgFontaine de la promenade de la Treille.jpgFontaine de la promenade de la Treille.jpgFontaine de la promenade de la Treille.jpgFontaine de la promenade de la Treille.jpgFontaine de la promenade de la Treille.jpgFon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1467436,
+          46.2004859
+        ]
+      },
+      "id": "node/7872452669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880898444",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "bottle": "yes",
+        "dog": "limited",
+        "drinking_water": "yes",
+        "fee": "no",
+        "swimming_pool": "no",
+        "wheelchair": "yes",
+        "wikidata": "Q98930556",
+        "wikimedia_commons": "Petite fontaine du parc La Grange.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1652546,
+          46.2056351
+        ]
+      },
+      "id": "node/7880898444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7886649585",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1250522,
+          46.1996086
+        ]
+      },
+      "id": "node/7886649585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8455462833",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1272954,
+          46.2070261
+        ]
+      },
+      "id": "node/8455462833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8461620630",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1236544,
+          46.1733738
+        ]
+      },
+      "id": "node/8461620630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8461703566",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.124523,
+          46.1752133
+        ]
+      },
+      "id": "node/8461703566"
+    }
+  ]
+}
